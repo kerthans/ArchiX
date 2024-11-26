@@ -247,7 +247,7 @@ function NavLink({
 }: { 
   href: string
   children: React.ReactNode
-  icon: any
+  icon: React.ElementType 
   isActive: boolean
   delay: number
 }) {
