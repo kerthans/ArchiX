@@ -47,16 +47,16 @@ const CONFIG = {
     // 添加链接配置
     links: {
       register: 'https://xi1uh4zvhbc.feishu.cn/share/base/form/shrcnrRKz3dPn27pdC9FGHDEZlj',
-      learnMore: 'https://your-learn-more-link.com'
+      learnMore: 'https://xi1uh4zvhbc.feishu.cn/docx/KE0vdOi6qoDHdDx1MmFcacgHnug?from=from_copylink'
     }
   },
 
   // 添加几何图形配置
   geometricShapes: {
-    count: 8,
+    count: 28,
     types: ['circle', 'square', 'triangle'],
-    minSize: 20,
-    maxSize: 60
+    minSize: 25,
+    maxSize: 80
   }
 }
 
